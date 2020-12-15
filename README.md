@@ -1,2 +1,2 @@
-# tii_gazebo
-TII Gazebo
+# qualisys_ros
+ROS Qualisys Package
